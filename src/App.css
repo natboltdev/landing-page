@@ -24,9 +24,28 @@
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+  gap: 0;
   font-size: 1.5rem;
   font-weight: 700;
   color: var(--primary);
+}
+
+.logo-text {
+  margin-left: -24px;
+}
+
+.logo-icon {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+.logo-text {
+  font-family: 'DaggerSquare', 'Arial', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.4px;
 }
 
 .nav-links {

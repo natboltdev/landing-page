@@ -1,3 +1,12 @@
+/* DaggerSquare Brand Font */
+@font-face {
+  font-family: 'DaggerSquare';
+  src: url('/fonts/daggersquare.ttf') format('truetype');
+  font-weight: 400 700;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* NatBolt Design System Colors */
 :root {
   /* Primary Colors */

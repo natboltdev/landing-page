@@ -155,7 +155,10 @@ Thank you for choosing NatBolt!`
       {/* Navigation */}
       <nav className="navbar">
         <div className="container">
-          <div className="logo">NatBolt</div>
+          <div className="logo">
+            <img src="/icon_orange.png" alt="NatBolt" className="logo-icon" />
+            <span className="logo-text">NatBolt</span>
+          </div>
           <ul className="nav-links">
             <li><a href="#services">Services</a></li>
             <li><a href="#how-it-works">How It Works</a></li>
@@ -493,7 +496,10 @@ Thank you for choosing NatBolt!`
         <div className="container">
           <div className="footer-content">
             <div className="footer-brand">
-              <div className="logo">NatBolt</div>
+              <div className="logo">
+                <img src="/icon_orange.png" alt="NatBolt" className="logo-icon" />
+                <span className="logo-text">NatBolt</span>
+              </div>
               <p>Your trusted partner for two-wheeler services</p>
             </div>
             <div className="footer-links">
