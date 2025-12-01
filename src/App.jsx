@@ -475,7 +475,7 @@ Thank you for choosing NatBolt!`
             <div className="contact-item">
               <div className="contact-icon">📧</div>
               <h3>Email</h3>
-              <p>hello@natbolt.in</p>
+              <p>hello@natbolt.com</p>
             </div>
             <div className="contact-item">
               <div className="contact-icon">📍</div>
@@ -509,7 +509,7 @@ Thank you for choosing NatBolt!`
             </div>
           </div>
           <div className="footer-bottom">
-            <p>© 2024 NatBolt. All rights reserved.</p>
+            <p>© 2025 NatBolt. All rights reserved.</p>
           </div>
         </div>
       </footer>
